@@ -1,0 +1,435 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Angel",
+				"AngelloModel"
+			],
+			[
+				"retr",
+				"retracted_title"
+			],
+			[
+				"re",
+				"retracted_title"
+			],
+			[
+				"exte",
+				"extended_title"
+			],
+			[
+				"exted",
+				"extended_height"
+			],
+			[
+				"bgc",
+				"background-color"
+			],
+			[
+				"bgco",
+				"background-color"
+			],
+			[
+				"myca",
+				"myCanvas3"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"sftp",
+				"SFTP: Map to Remote…"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/Eric/Desktop/angello/funket_text.html",
+		"/Users/Eric/Desktop/angello/README.md",
+		"/Users/Eric/Desktop/angello/angello-lite/js/app.js",
+		"/Users/Eric/Desktop/angello/angello-lite/index.html",
+		"/Users/Eric/Desktop/angello/angello-lite/css/app.css",
+		"/Users/Eric/Desktop/gulp/src/domhelper-id.js",
+		"/Users/Eric/Desktop/gulp/src/domhelper-tag.js",
+		"/Users/Eric/Desktop/nodejs/README.md",
+		"/Users/Eric/Desktop/nodejs/modules/combineJS/package.json",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/receiver-unsubscription.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/receiver-group-write.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/receiver-group.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/send.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/write.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/css/template-layout.css",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/index.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/css/bootstrap-custom.css",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/css/matrix-style.css",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/receiver-group-manage.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/send-result-view.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/send-result-list.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/charts.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/index2.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/interface.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/invoice.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/login.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/tables.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/widgets.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/send-test.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/buttons.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/calendar.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/chat.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/error403.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/error404.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/error405.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/error500.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/form-common.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/form-validation.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/form-wizard.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/gallery.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/grid.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/send-result.html",
+		"/Users/Eric/Library/Application Support/Sublime Text 3/Packages/Gist/Gist.sublime-settings",
+		"/Users/Eric/Library/Application Support/Sublime Text 3/Packages/User/Gist.sublime-settings",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/receiver-modify.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/admin/Html/daumeditor/editor.html",
+		"/Users/Eric/Documents/opoksoft/eDMTamplate/eDMtemplate.html",
+		"/Users/Eric/Downloads/naverMap.js",
+		"/Users/Eric/Downloads/capabilities.php",
+		"/Users/Eric/Downloads/wp-config.php",
+		"/Users/Eric/Downloads/.htaccess",
+		"/Users/Eric/Downloads/wp-settings.php",
+		"/Users/Eric/Downloads/php.ini",
+		"/Users/Eric/Downloads/view-php-info.php",
+		"/Users/Eric/Documents/dev/git/HTML5&CSS3/html5/canvas/grid.html",
+		"/Users/Eric/Documents/dev/git/HTML5&CSS3/html5/canvas/gradient.html",
+		"/Users/Eric/Documents/dev/git/HTML5&CSS3/html5/canvas/img.html",
+		"/Users/Eric/Documents/dev/git/HTML5&CSS3/html5/canvas/halma.html",
+		"/Users/Eric/Downloads/functions.php",
+		"/Users/Eric/Documents/dev/git/HTML5&CSS3/emmet-abbr.html",
+		"/Users/Eric/Documents/bon/branch.html",
+		"/Users/Eric/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/Eric/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/Eric/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/Eric/Documents/dev/git/HTML5&CSS3/emmet.html",
+		"/Users/Eric/Downloads/Awesome-Tag-Cloud-Plugin-with-jQuery-Html5-Canvas-awesomeCloud/index.html",
+		"/Users/Eric/Downloads/header.php",
+		"/Users/Eric/Downloads/중간비디오버튼.html",
+		"/Users/Eric/Documents/dev/git/HTML5&CSS3/html5/modernizr.html",
+		"/Users/Eric/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Eric/Documents/dev/git/HTML5&CSS3/canvas.html",
+		"/Users/Eric/Documents/dev/git/HTML5&CSS3/sticker.html",
+		"/Users/Eric/Documents/dev/git/HTML5&CSS3/smashing_mag/uilang/test01.html",
+		"/Users/Eric/Documents/dev/git/HTML5&CSS3/index.html",
+		"/Volumes/HD-PNTU3/작업물/수연 포트폴리오/2011/동두천록페스티벌/004.Html Data/main.html",
+		"/var/folders/jn/6fph0yzj5q7g0bkm95f2z4l80000gn/T/sublime-sftp-browse-1465130337/mapped/www/funketbaby/skin/frontend/default/bluescale/css/skin.css",
+		"/Users/Eric/Documents/FTP/sftp-config.json",
+		"/Users/Eric/Documents/dev/git/tutorial/index.html",
+		"/Users/Eric/Documents/dev/git/tutorial/Readme.md"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"class",
+			"straightLine",
+			"div",
+			"setCurrentStory",
+			"ul",
+			"li",
+			"Li",
+			"li",
+			"primary",
+			"span12 text-right",
+			" class=\"m-wrap\"",
+			".form-horizontal .control-label",
+			".form-horizontal .controls",
+			"span6",
+			"span2",
+			"span1",
+			".form-horizontal .controls",
+			"margin-right",
+			"span4",
+			"수신자검색",
+			"table",
+			"select2",
+			"selec2",
+			"toggle",
+			"span12",
+			"style03",
+			"Footer",
+			"layout01",
+			"template01-thumb",
+			"margin-top",
+			"mt-",
+			"margin",
+			"row",
+			"chart",
+			" class=\"even gradeC\"",
+			" class=\"odd gradeX\"",
+			" rowspan=\"2\"",
+			"chart",
+			"bars",
+			"btn-mini ",
+			"table-responsive",
+			"/*!",
+			"clearfix",
+			"<html lang=\"en\">",
+			"고",
+			"display:inline-block",
+			"datepicker",
+			"발",
+			"발행",
+			"발행 년도",
+			"send_schedule",
+			"receiverSearch",
+			"receiver",
+			"radio",
+			"check",
+			"checkbox",
+			"view popup",
+			"Static table with checkboxes in box with padding",
+			"-inverse",
+			" 내 검색",
+			" btn-mini",
+			"info",
+			"icon-search",
+			"mini",
+			"success",
+			"radios",
+			"설명",
+			"그룹관리",
+			"table",
+			"reponsive",
+			"th",
+			"td",
+			"First option",
+			"기능 설명",
+			"select",
+			"15",
+			"4px",
+			"></",
+			"colspan",
+			"colspanta",
+			"contents",
+			"tab",
+			"search",
+			"span12",
+			"search",
+			"주소갯수",
+			"first",
+			"h1",
+			"hidden",
+			"height",
+			"editor_bi",
+			"images",
+			"h1",
+			"align",
+			"radio",
+			"6개",
+			"6",
+			"3",
+			"2",
+			"발",
+			"발행",
+			"resetMenu",
+			"goPage",
+			"date",
+			"home",
+			"3",
+			"png",
+			"current_user_can",
+			"ftp",
+			"memory",
+			"define( 'WP_MEMORY_LIMIT', '256M' );",
+			"define",
+			"efine (‘WPLANG’, ‘ko_KR’)",
+			"jQuery",
+			"class=\"color",
+			"script",
+			"w100p",
+			"//players",
+			"example",
+			"snippet",
+			"2",
+			"lang",
+			"doc",
+			"230",
+			"context",
+			"5",
+			"style",
+			"#\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<html lang=\"ko\">",
+			"https://players",
+			"//players",
+			"'./images",
+			"\"./images",
+			"\"./common",
+			"5"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "portfolio.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
