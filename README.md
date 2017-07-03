@@ -18,6 +18,19 @@
 	</ul>
 </blockquote>
 
+<h2>Index Page</h2>
+<blockquote>
+	<ul>
+		<li>Binded json data</li>
+		<li>Logo with Sticker.js</li>
+		<li>Global Navigation with js</li>
+		<li>Main Text Group with js</li>
+		<li>Keywords with tagCanvas.js </li>
+		<li>Animation Ball with HTML5 Canvas and js animate</li>
+		<li></li>
+	</ul>
+</blockquote>
+
 <h2>자료 출처</h2>
 <ul>
 	<li><a href="https://au.pinterest.com/pin/175077504239442181/">Dribbble</a></li>
