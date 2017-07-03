@@ -3,6 +3,8 @@
 <ul>
 	<li>Tool : Skecth</li>
 	<li>Author : Suyun Lee</li>
+	<li>Date : 2017. 6. 12</li>
+	<li>Last Update: 2017. 6. 16</li>
 </ul>
 
 <h2>Design Images</h2>
@@ -15,3 +17,11 @@
 		<li>Contact<br /><img src="./design/Desktop HD(Contact).png" width="300" alt=""></li>
 	</ul>
 </blockquote>
+
+<h2>자료 출처</h2>
+<ul>
+	<li><a href="https://au.pinterest.com/pin/175077504239442181/">Dribbble</a></li>
+	<li><a href="https://www.webdesignerdepot.com/2015/12/free-download-20-animated-icons-from-animaticons/">WEBDESIGNERDEPOT</a></li>
+	<li><a href="https://kickdrop.me/">Kickdrop</a></li>
+	<li><a href="https://github.com/sebhildebrandt/reveal.js-tagcloud-plugin">Tag Cloud</a></li>
+</ul>

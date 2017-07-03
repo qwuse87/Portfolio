@@ -1,0 +1,42 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Make my portfolio project",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^4.3.11",
+    "jshint": "^2.9.5",
+    "jshint-stylish": "^2.2.1"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qwuse87/Portfolio.git"
+  },
+  "keywords": [
+    "web",
+    "publish",
+    "publisher",
+    "web",
+    "desing",
+    "ui",
+    "develop",
+    "ux",
+    "develop"
+  ],
+  "author": "Suyun Eric L",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qwuse87/Portfolio/issues"
+  },
+  "homepage": "https://github.com/qwuse87/Portfolio#readme"
+}

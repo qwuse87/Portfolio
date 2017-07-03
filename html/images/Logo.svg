@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD(Main)" transform="translate(-23.000000, -16.000000)">
+            <g id="Main" transform="translate(0.000000, -6.000000)">
+                <g id="Header" transform="translate(0.000000, 6.000000)">
+                    <g id="Logo" transform="translate(23.000000, 16.000000)">
+                        <circle id="Oval" fill="#505050" cx="26" cy="26" r="26"></circle>
+                        <text id="SY" fill="#50E3C2" font-family="HiraKakuProN-W6, Hiragino Kaku Gothic ProN" font-size="24" font-weight="500">
+                            <tspan x="9" y="35">SY</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

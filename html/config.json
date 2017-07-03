@@ -1,0 +1,52 @@
+{ 
+	"navi" : 
+	[
+		{"name" : "Home", "src" : "#"},
+		{"name" : "About", "src" : "#" },
+		{"name" : "Works", "src" : "#" },
+		{"name" : "Labs", "src" : "#" },
+		{"name" : "Contact", "src" : "#" }
+	],
+	"sidemenu" : 
+	[
+		{"name" : "color"},
+		{"name" : "font"}
+	],
+	"indexText" :
+	[
+		{"stitle" : "HTML5/CSS3", "css":"stitle"},
+		{"title" : "Hi, This is Eric’s Area!", "css":"title"},
+		{"job" : "Front-end Web Publisher", "css":"job"},
+		{"contact":"Contact Me","contactUrl" : "#", "css":"contact"},
+		{"copyright" : "Copyright © Eric’s Portfolio", "css":"copyright"}
+	],
+	"sns" :
+	[
+		{"facebook":"#"},
+		{"instagram":"#"},
+		{"linkedin":"#"},
+		{"blog":"#"}
+	],
+	"tags" :
+	[
+		{"name" : "Wordpress", "src" : "#Wordpress"},
+		{"name" : "Trello", "src" : "#Trello"},
+		{"name" : "Github", "src" : "#Github"},
+		{"name" : "Design", "src" : "#Design"},
+		{"name" : "HTML5", "src" : "#HTML5"},
+		{"name" : "CSS3", "src" : "#CSS3"},
+		{"name" : "Javscript", "src" : "#Javscript"},
+		{"name" : "Gulp", "src" : "#Gulp"},
+		{"name" : "SASS", "src" : "#SASS"},
+		{"name" : "App", "src" : "#App"},
+		{"name" : "SEO", "src" : "#SEO"},
+		{"name" : "반응형웹", "src" : "#반응형웹"},
+		{"name" : "웹표준", "src" : "#웹표준"},
+		{"name" : "크로스브라우징", "src" : "#크로스브라우징"},
+		{"name" : "웹퍼블리셔", "src" : "#웹퍼블리셔"},
+		{"name" : "UX", "src" : "#UX"},
+		{"name" : "Magento", "src" : "#Magento"},
+		{"name" : "Prestashop", "src" : "#Prestashop"},
+		{"name" : "Joomla", "src" : "#Joomla"}
+	]
+}
