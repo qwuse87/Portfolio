@@ -4,7 +4,8 @@ var gulp = 	require('gulp'), // Gulp Module
 	jshint = require('gulp-jshint'), // Gulp JS Hint
 	uglify = require('gulp-uglify'), // Gulp uglify 파일 압축
 	rename = require('gulp-rename'),  // Gulp Rename
-	watch = require('gulp-watch') // Gulp Watch
+	watch = require('gulp-watch'), // Gulp Watch
+	sass = require('gulp-sass'); // Gulp SASS
 
 var path = {
 	js : {
@@ -40,11 +41,18 @@ gulp.task('js:uglify', function(){
 		.pipe(rename( {suffix: '.min'} ))
 		.pipe(gulp.dest(path.js.dest))
 });
+ 
+// CSS SASS 
+gulp.task('css:sass', function () {
+	gulp.src('sass/**/*.scss')
+    	.pipe(sass().on('error', sass.logError))
+    	.pipe(gulp.dest('./css'));
+});
 
 // Watch
 gulp.task('stream', function(){
 	gulp
-		.watch('js/**/*.js', ['jsScripts'])
+		.watch(['js/**/*.js','sass/**/*.scss'], ['jsScripts','css:sass'])
 });
 
 // Gulp.task()를 사용해 기본(Default) 테스크 정의

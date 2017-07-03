@@ -6,12 +6,15 @@
     <defs></defs>
     <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Desktop-HD(Main)" transform="translate(-23.000000, -16.000000)">
-            <g id="Main" transform="translate(0.000000, -6.000000)">
-                <g id="Header" transform="translate(0.000000, 6.000000)">
+            <g id="Main">
+                <g id="Header">
                     <g id="Logo" transform="translate(23.000000, 16.000000)">
                         <circle id="Oval" fill="#505050" cx="26" cy="26" r="26"></circle>
-                        <text id="SY" fill="#50E3C2" font-family="HiraKakuProN-W6, Hiragino Kaku Gothic ProN" font-size="24" font-weight="500">
-                            <tspan x="9" y="35">SY</tspan>
+                        <text id="FEW" font-family="HiraKakuProN-W6, Hiragino Kaku Gothic ProN" font-size="10" font-weight="500" fill="#FFFFFF">
+                            <tspan x="14" y="21">FEW</tspan>
+                        </text>
+                        <text id="ERIC" fill="#50E3C2" font-family="HiraKakuProN-W6, Hiragino Kaku Gothic ProN" font-size="14" font-weight="500">
+                            <tspan x="8" y="37">ERIC</tspan>
                         </text>
                     </g>
                 </g>

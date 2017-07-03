@@ -1,16 +1,16 @@
 { 
 	"navi" : 
 	[
-		{"name" : "Home", "src" : "#"},
-		{"name" : "About", "src" : "#" },
-		{"name" : "Works", "src" : "#" },
-		{"name" : "Labs", "src" : "#" },
-		{"name" : "Contact", "src" : "#" }
+		{"name" : "Home", "src" : "#home"},
+		{"name" : "About", "src" : "#about" },
+		{"name" : "Works", "src" : "#works" },
+		{"name" : "Labs", "src" : "#labs" },
+		{"name" : "Contact", "src" : "#contact" }
 	],
 	"sidemenu" : 
 	[
-		{"name" : "color"},
-		{"name" : "font"}
+		{"name" : "color" , "value" : "#000"},
+		{"name" : "font" , "value" : "nanumsquere"}
 	],
 	"indexText" :
 	[
@@ -22,31 +22,32 @@
 	],
 	"sns" :
 	[
-		{"facebook":"#"},
-		{"instagram":"#"},
-		{"linkedin":"#"},
-		{"blog":"#"}
+		{"name" : "facebook"},
+		{"name" : "instagram"},
+		{"name" : "linkedin"},
+		{"name" : "blog"},
+		{"name" : "github"}
 	],
 	"tags" :
 	[
-		{"name" : "Wordpress", "src" : "#Wordpress"},
-		{"name" : "Trello", "src" : "#Trello"},
-		{"name" : "Github", "src" : "#Github"},
-		{"name" : "Design", "src" : "#Design"},
-		{"name" : "HTML5", "src" : "#HTML5"},
-		{"name" : "CSS3", "src" : "#CSS3"},
-		{"name" : "Javscript", "src" : "#Javscript"},
-		{"name" : "Gulp", "src" : "#Gulp"},
-		{"name" : "SASS", "src" : "#SASS"},
-		{"name" : "App", "src" : "#App"},
-		{"name" : "SEO", "src" : "#SEO"},
-		{"name" : "반응형웹", "src" : "#반응형웹"},
-		{"name" : "웹표준", "src" : "#웹표준"},
-		{"name" : "크로스브라우징", "src" : "#크로스브라우징"},
-		{"name" : "웹퍼블리셔", "src" : "#웹퍼블리셔"},
-		{"name" : "UX", "src" : "#UX"},
-		{"name" : "Magento", "src" : "#Magento"},
-		{"name" : "Prestashop", "src" : "#Prestashop"},
-		{"name" : "Joomla", "src" : "#Joomla"}
+		{"name" : "Wordpress", "src" : "#Wordpress", "description" : ""},
+		{"name" : "Trello", "src" : "#Trello", "description" : ""},
+		{"name" : "Github", "src" : "#Github", "description" : ""},
+		{"name" : "Design", "src" : "#Design", "description" : ""},
+		{"name" : "HTML5", "src" : "#HTML5", "description" : ""},
+		{"name" : "CSS3", "src" : "#CSS3", "description" : ""},
+		{"name" : "Javscript", "src" : "#Javscript", "description" : ""},
+		{"name" : "Gulp", "src" : "#Gulp", "description" : ""},
+		{"name" : "SASS", "src" : "#SASS", "description" : ""},
+		{"name" : "App", "src" : "#App", "description" : ""},
+		{"name" : "SEO", "src" : "#SEO", "description" : ""},
+		{"name" : "반응형웹", "src" : "#반응형웹", "description" : ""},
+		{"name" : "웹표준", "src" : "#웹표준", "description" : ""},
+		{"name" : "크로스브라우징", "src" : "#크로스브라우징", "description" : ""},
+		{"name" : "웹퍼블리셔", "src" : "#웹퍼블리셔", "description" : ""},
+		{"name" : "UX", "src" : "#UX", "description" : ""},
+		{"name" : "Magento", "src" : "#Magento", "description" : ""},
+		{"name" : "Prestashop", "src" : "#Prestashop", "description" : ""},
+		{"name" : "Joomla", "src" : "#Joomla", "description" : ""}
 	]
 }

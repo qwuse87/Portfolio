@@ -18,6 +18,13 @@
 	</ul>
 </blockquote>
 
+<h2>Front End Web Technology</h2>
+<ul>
+	<li>Tool : Mac(OS X), Terminal, Sublime Text 3</li>
+	<li>Author : Suyun Lee</li>
+	<li>Date : 2017. 6. 16</li>
+	<li>Last Update: 2017. 7. 4</li>
+</ul>
 <h2>Index Page</h2>
 <blockquote>
 	<ul>
@@ -27,11 +34,28 @@
 		<li>Main Text Group with js</li>
 		<li>Keywords with tagCanvas.js </li>
 		<li>Animation Ball with HTML5 Canvas and js animate</li>
-		<li></li>
 	</ul>
 </blockquote>
 
-<h2>자료 출처</h2>
+<h2>Usage</h2>
+<ul>
+	<li>Node.js / NPM</li>
+	<li>Gulp
+		<ul>
+			<li>gulp-concat</li>
+			<li>gulp-jshint</li>
+			<li>gulp-uglify</li>
+			<li>gulp-rename</li>
+			<li>gulp-watch</li>
+			<li>gulp-sass</li>
+		</ul>
+	</li>
+	<li>HTML5 Canvas</li>
+	<li>jQuery(Ajax)</li>
+	<li>Git</li>
+	<li>Trello</li>
+</ul>
+<h2>Source</h2>
 <ul>
 	<li><a href="https://au.pinterest.com/pin/175077504239442181/">Dribbble</a></li>
 	<li><a href="https://www.webdesignerdepot.com/2015/12/free-download-20-animated-icons-from-animaticons/">WEBDESIGNERDEPOT</a></li>
